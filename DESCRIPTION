@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description:sample size calculation
+Description: sample size calculation.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
